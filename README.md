@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align='center'>
+<img src="https://media.giphy.com/media/1zzJ0Q9OABBaBzGdsf/giphy.gif" style='border-radius: 10%;' width="200" height="200">
+</p>
+<h2 align='center'>
+Hello there! 👋, I'm Alexandro Asencios
+</h2>
+<p align='center'>
+<img src="https://img.shields.io/github/followers/Alexandrog23?style=social">
+<img src="https://img.shields.io/github/stars/Alexandrog23?style=social">
+<img src="https://img.shields.io/github/last-commit/Alexandrog23/CRUD-Java-MySQL?style=plastic">
+</p>
 
-<!--
-**AlexandroG23/AlexandroG23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm Junior developer and love learning new things and creating projects that people can enjoy, that's why I started my career developing websites, desktop applications and managing databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition, for years I have been acquiring knowledge with projects carried out at the university and on my own.
+
+- 🔭 I'm looking for work as a frontend and backend developer.
+- 🌱 I’m currently learning TypeScript, React.js, Oracle  database and more.
+- 💬 Ask me about Java, HTML, CSS, JS, SQL...
+- ⚡ More about me: Like many I love to play video games, I love cats and I like to watch family movies on weekends. In my spare time I play the guitar and inform myself about things related to technology.
+
+---
