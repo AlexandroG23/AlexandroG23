@@ -25,7 +25,7 @@ In addition, for years I have been acquiring knowledge with projects carried out
 
 ### My skills
 
-React Js, Node Js, Express, Postgres, Javascript, HTML, CSS, SASS, Bootstrap, Rest, Rest Api, Git, GitHub
+React Js, Node Js, Express, Postgres, Javascript, HTML, CSS, SASS, Bootstrap, Tailwind, Rest, Rest Api, Git, GitHub
 
 ### Contact
 
