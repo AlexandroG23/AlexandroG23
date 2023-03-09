@@ -1,9 +1,9 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/1zzJ0Q9OABBaBzGdsf/giphy.gif" style='border-radius: 10%;' width="200" height="200">
 </p>
-<h2 align='center'>
+<h3 align='center'>
 Hello there! 👋, I'm Alexandro Asencios
-</h2>
+</h3>
 <p align='center'>
 <img src="https://img.shields.io/github/followers/Alexandrog23?style=social">
 <img src="https://img.shields.io/github/stars/Alexandrog23?style=social">
