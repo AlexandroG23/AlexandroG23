@@ -22,3 +22,11 @@ In addition, for years I have been acquiring knowledge with projects carried out
 - ⚡ More about me: Like many I love to play video games, I love cats and I like to watch family movies on weekends. In my spare time I play the guitar and inform myself about things related to technology.
 
 ---
+
+### My skills
+
+React Js, Node Js, Express, Postgres, Javascript, HTML, CSS, SASS, Bootstrap, Rest, Rest Api, Git, GitHub
+
+### Contact
+
+Email: aa.asenciosg@gmail.com || angelo_asenciosg@outlook.com
