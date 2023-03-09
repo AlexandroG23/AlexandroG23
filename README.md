@@ -19,7 +19,7 @@ In addition, for years I have been acquiring knowledge with projects carried out
 - 🔭 I'm looking for work as a frontend and backend developer.
 - 🌱 I’m currently learning TypeScript, React.js, Oracle  database and more.
 - 💬 Ask me about Java, HTML, CSS, JS, SQL...
-- ⚡ More about me: Like many I love to play video games, I love cats and I like to watch family movies on weekends. In my spare time I play the guitar and inform myself about things related to technology.
+- ⚡ More about me: Like many I love to play video games, and I also like cats. In my spare time I play the guitar and inform myself about things related to technology.
 
 ---
 
