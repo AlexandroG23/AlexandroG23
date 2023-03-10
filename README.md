@@ -17,7 +17,7 @@ I'm Junior developer and love learning new things and creating projects that peo
 In addition, for years I have been acquiring knowledge with projects carried out at the university and on my own.
 
 - 🔭 I'm looking for work as a frontend and backend developer.
-- 🌱 I’m currently learning TypeScript, React.js, Oracle, Node Js and Express.
+- 🌱 I’m currently learning TypeScript, React.js, Oracle, Node Js, Express and C#.
 - 💬 Ask me about Java, HTML, CSS, JS, SQL...
 - ⚡ More about me: Like many I love to play video games, and I also like cats. In my spare time I play the guitar and inform myself about things related to technology.
 
@@ -25,7 +25,7 @@ In addition, for years I have been acquiring knowledge with projects carried out
 
 ### My skills
 
-React Js, Postgres, Javascript, HTML, CSS, SASS, Bootstrap, Tailwind CSS, Rest, Rest Api, Git, GitHub.
+Java, Python, React Js, Postgres, Javascript, HTML, CSS, SASS, Bootstrap, Tailwind CSS, Rest, Rest Api, Git, GitHub.
 
 ### Contact
 
