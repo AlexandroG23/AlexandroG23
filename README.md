@@ -25,7 +25,7 @@ In addition, for years I have been acquiring knowledge with projects carried out
 
 ### My skills
 
-Java, Python, React Js, Postgres, Javascript, HTML, CSS, SASS, Bootstrap, Tailwind CSS, Rest, Rest Api, Git, GitHub.
+Java, Python, React Js, Javascript, HTML, CSS, SASS, Bootstrap, Tailwind CSS, MySQL, SQL Server, PostgreSQL, Rest, Rest Api, Git, GitHub.
 
 ### Contact
 
